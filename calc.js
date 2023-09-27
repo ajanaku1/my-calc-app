@@ -22,4 +22,4 @@ buttons.forEach((button) => {
 
         display.value = currentInput;
     });
-})
+});
